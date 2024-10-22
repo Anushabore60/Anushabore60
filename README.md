@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anusha bore
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ful satck developement 
+- 🌱 I’m currently learning full stack developement 
 - 💞️ I’m looking to collaborate on web development projects 
 - 📫 How to reach me boreanusha60@gmail.com
 - 😄 Pronouns: she/her
